@@ -1,0 +1,4 @@
+node_modules/
+.env
+solidMatters.json
+solid.txt
